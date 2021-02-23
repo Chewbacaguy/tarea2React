@@ -1,0 +1,5 @@
+export const SELECT_BOOK = "SELECT_BOOK"
+export const DELETE_BOOKS = "DELETE_BOOKS"
+export const BUSCAR_BOOK = "BUSCAR_BOOK" 
+export const GUARDAR_BOOK = "GUARDAR_BOOK"
+export const GUARDAR_USUARIO = "GUARDAR_USUARIO"
